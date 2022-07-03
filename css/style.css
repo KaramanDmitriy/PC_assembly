@@ -25,7 +25,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     line-height: 150%;
-
+    background-image: url(../images/bgc-main.jpg);
 }
 .logo {
     margin-top: 40px;
@@ -155,11 +155,6 @@ body {
     display: flex;
     justify-content: space-between;
 
-}
-body {
-    background-image: url(../images/bgc-main.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 .question__wrapper {
     display: flex;
