@@ -135,7 +135,7 @@ body {
 }
 .progress-bar__text-line span {
     opacity: 0.4;
-    margin-right: 20px;
+    margin-right: 17px;
 }
 .progress-bar__line {
     min-width: 715px;
@@ -561,7 +561,7 @@ body {
     padding: 10px 30px;
     border-radius: 50px;
     position: absolute;
-    top: -2px;
+    top: -2.5px;
     transform: translateX(165px);
     border: none;
     background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
