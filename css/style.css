@@ -131,7 +131,7 @@ body {
     font-weight: 700;
 }
 .progress-bar__text-line {
-    font-size: 16px;
+    font-size: 14px;
 }
 .progress-bar__text-line span {
     opacity: 0.4;
