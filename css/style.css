@@ -135,7 +135,7 @@ body {
 }
 .progress-bar__text-line span {
     opacity: 0.4;
-    margin-right: 17px;
+    margin-right: 15px;
 }
 .progress-bar__line {
     min-width: 715px;
